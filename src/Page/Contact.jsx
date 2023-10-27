@@ -5,6 +5,8 @@ const Contact = () => {
         <div>
             <label htmlFor="">NAme</label>
             <input type="text" />
+            <label htmlFor="">NAme</label>
+            <input type="text" />
         </div>
     );
 };
